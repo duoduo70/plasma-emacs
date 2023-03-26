@@ -1,0 +1,41 @@
+（在Emacs内使用 document 命令来打开）
+
+快捷键：
+C-, 打开用户配置文件
+C-` 打开命令行
+M-A (在minibuffer内)切换minibuffer模式
+C-s 搜索
+C-x b 切换缓冲区
+C-c v 查看视窗列表
+C-x C-SPC 或 C-x C-@ 标记撤销环
+C-r (在minibuffer内) 搜索minibuffer历史
+M-<number> (在company内)选择补全项
+M-p / M-n (在company内)上下选择
+M-/ 纯文本智能补全
+C-c C-, 显示错误列表
+C-c l s 搜索整个工作区中的符号
+M-. 寻找符号定义
+M-? 寻找符号引用
+C-c p 打开projectile历史列表
+C-c p p 打开历史项目
+M-0 从侧边栏到其它窗口间互相切换
+C-x t t 打开侧边栏
+C-x t b 添加侧边栏书签
+C-x t M-t 寻找侧边栏标志
+tw (在侧边栏中)调整侧边栏大小
+M-; 注释选中的文本
+F5 运行项目
+M-% 替换
+
+命令：
+document 打开本文档
+elpa-cn  切换到中国ELPA源
+occur 图形化查找
+
+提示：
+在项目根目录创建 .projectile 空文件来注明根目录
+在项目根目录创建 .dir-locals.el 来设置环境变量
+例如：
+    ((c++-mode . ((flycheck-clang-language-standard . "c++11"))))
+如果想使用全项目搜索,你必须安装 ag .
+    pacman -S the_silver_searcher

@@ -1,0 +1,10 @@
+(require 'package)
+(setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
+                         ("melpa" . "https://melpa.org/packages/")))
+(package-initialize)
+
+(defun elpa-cn()
+    (interactive)
+    (setq package-archives '(("gnu" . "http://1.15.88.122/gnu/")
+                             ("melpa" . "http://1.15.88.122/melpa/")))
+    (package-initialize))

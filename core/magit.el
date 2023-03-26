@@ -1,0 +1,8 @@
+(add-to-list 'load-path (concat git-package-path "compat"))
+(require 'compat)
+(add-to-list 'load-path (concat git-package-path "with-editor/lisp"))
+(require 'with-editor)
+(add-to-list 'load-path (concat git-package-path "dash"))
+(require 'dash)
+(add-to-list 'load-path (concat git-package-path "magit/lisp"))
+(require 'magit)

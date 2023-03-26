@@ -1,0 +1,18 @@
+(if (not (display-graphic-p))
+	(progn
+	(custom-set-faces
+	 '(hl-line ((t (:extend t :background "#005f5f"))))
+	 '(line-number ((t (:foreground "#a8a8a8" :slant italic))))
+	 '(line-number-current-line ((t (:foreground-color "#bcbcbc" :slant italic))))
+	 '(region ((t (:background "#5f8787" :inherit ))))
+	 '(tty-menu-selected-face ((t (:background "#5f5f5f"))))
+	 '(tty-menu-disabled-face ((t (:background "#5f5f87"))))
+	 '(tty-menu-enabled-face ((t (:background "#5f5f87"))))
+	 '(treemacs-term-node-face ((t (:foreground "#5f5f87"))))
+	)
+	(xterm-mouse-mode t)
+    (defun up-slightly () (interactive) (scroll-up 3))
+    (defun down-slightly () (interactive) (scroll-down 3))
+	(global-set-key [mouse-4] 'down-slightly)
+	(global-set-key [mouse-5] 'up-slightly)
+	(menu-bar-mode)))
