@@ -1,0 +1,13 @@
+**
+!.gitignore
+!.dir-locals.el
+!early-init.el
+!init.el
+!user-config.el
+!DOCUMENT
+!core
+!core/**
+**/.git/object/
+**/.github
+**/test/
+**/tests/
