@@ -8,7 +8,5 @@
 !UNLICENSE
 !core
 !core/**
-**/.git/object/
-**/.github
 **/test/
 **/tests/
