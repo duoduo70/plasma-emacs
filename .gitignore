@@ -6,5 +6,7 @@
 !user-config.el
 !DOCUMENT
 !UNLICENSE
+!.gitmodules
 !core
 !core/**
+!README.md
