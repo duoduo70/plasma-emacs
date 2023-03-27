@@ -5,6 +5,7 @@
 !init.el
 !user-config.el
 !DOCUMENT
+!UNLICENSE
 !core
 !core/**
 **/.git/object/
