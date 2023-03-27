@@ -88,3 +88,6 @@
 [submodule "core/git-package/yasnippet-snippets"]
 	path = core/git-package/yasnippet-snippets
 	url = https://github.com/AndreaCrotti/yasnippet-snippets
+[submodule "core/git-package/treemacs"]
+	path = core/git-package/treemacs
+	url = https://github.com/Alexander-Miller/treemacs
