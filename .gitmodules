@@ -1,0 +1,90 @@
+[submodule "core/git-package/amx"]
+	path = core/git-package/amx
+	url = https://github.com/DarwinAwardWinner/amx
+[submodule "core/git-package/auto-save"]
+	path = core/git-package/auto-save
+	url = https://github.com/manateelazycat/auto-save
+[submodule "core/git-package/company-mode"]
+	path = core/git-package/company-mode
+	url = https://github.com/company-mode/company-mode
+[submodule "core/git-package/compat"]
+	path = core/git-package/compat
+	url = https://github.com/emacs-compat/compat
+[submodule "core/git-package/counsel-projectile"]
+	path = core/git-package/counsel-projectile
+	url = https://github.com/ericdanan/counsel-projectile
+[submodule "core/git-package/dash"]
+	path = core/git-package/dash
+	url = https://github.com/magnars/dash.el
+[submodule "core/git-package/dracula-theme"]
+	path = core/git-package/dracula-theme
+	url = https://github.com/dracula/emacs
+[submodule "core/git-package/emacs-dashboard"]
+	path = core/git-package/emacs-dashboard
+	url = https://github.com/emacs-dashboard/emacs-dashboard
+[submodule "core/git-package/exec-path-from-shell"]
+	path = core/git-package/exec-path-from-shell
+	url = https://github.com/purcell/exec-path-from-shell
+[submodule "core/git-package/f"]
+	path = core/git-package/f
+	url = https://github.com/rejeep/f.el
+[submodule "core/git-package/flycheck"]
+	path = core/git-package/flycheck
+	url = https://github.com/flycheck/flycheck
+[submodule "core/git-package/ht"]
+	path = core/git-package/ht
+	url = https://github.com/Wilfred/ht.el
+[submodule "core/git-package/hydra"]
+	path = core/git-package/hydra
+	url = https://github.com/abo-abo/hydra
+[submodule "core/git-package/ivy"]
+	path = core/git-package/ivy
+	url = https://github.com/abo-abo/swiper
+[submodule "core/git-package/lsp-ivy"]
+	path = core/git-package/lsp-ivy
+	url = https://github.com/emacs-lsp/lsp-ivy
+[submodule "core/git-package/lsp-mode"]
+	path = core/git-package/lsp-mode
+	url = https://github.com/emacs-lsp/lsp-mode
+[submodule "core/git-package/lsp-treemacs"]
+	path = core/git-package/lsp-treemacs
+	url = https://github.com/emacs-lsp/lsp-treemacs
+[submodule "core/git-package/lsp-ui"]
+	path = core/git-package/lsp-ui
+	url = https://github.com/emacs-lsp/lsp-ui
+[submodule "core/git-package/magit"]
+	path = core/git-package/magit
+	url = https://github.com/magit/magit
+[submodule "core/git-package/markdown-mode"]
+	path = core/git-package/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode
+[submodule "core/git-package/marginalia"]
+	path = core/git-package/marginalia
+	url = https://github.com/minad/marginalia
+[submodule "core/git-package/pfuture"]
+	path = core/git-package/pfuture
+	url = https://github.com/Alexander-Miller/pfuture
+[submodule "core/git-package/powerline"]
+	path = core/git-package/powerline
+	url = https://github.com/milkypostman/powerline
+[submodule "core/git-package/projectile"]
+	path = core/git-package/projectile
+	url = https://github.com/bbatsov/projectile
+[submodule "core/git-package/rainbow-delimiters"]
+	path = core/git-package/rainbow-delimiters
+	url = https://github.com/jlr/rainbow-delimiters
+[submodule "core/git-package/s"]
+	path = core/git-package/s
+	url = https://github.com/magnars/s.el
+[submodule "core/git-package/spinner"]
+	path = core/git-package/spinner
+	url = https://github.com/Malabarba/spinner.el
+[submodule "core/git-package/with-editor"]
+	path = core/git-package/with-editor
+	url = https://github.com/magit/with-editor
+[submodule "core/git-package/yasnippet"]
+	path = core/git-package/yasnippet
+	url = https://github.com/joaotavora/yasnippet
+[submodule "core/git-package/yasnippet-snippets"]
+	path = core/git-package/yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets
