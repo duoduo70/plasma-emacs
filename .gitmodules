@@ -91,3 +91,6 @@
 [submodule "core/git-package/treemacs"]
 	path = core/git-package/treemacs
 	url = https://github.com/Alexander-Miller/treemacs
+[submodule "core/git-package/yascroll"]
+	path = core/git-package/yascroll
+	url = https://github.com/emacsorphanage/yascroll
